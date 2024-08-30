@@ -1,0 +1,5 @@
+package com.springbootcrudapi.repository;
+
+public interface StudentRepository {
+
+}

@@ -1,0 +1,5 @@
+package com.springbootcrudapi;
+
+public class StudentControllerTests {
+
+}

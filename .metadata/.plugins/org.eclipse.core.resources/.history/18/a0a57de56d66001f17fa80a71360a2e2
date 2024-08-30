@@ -1,0 +1,5 @@
+package com.springbootcrudapi.entity;
+
+public class Student {
+
+}

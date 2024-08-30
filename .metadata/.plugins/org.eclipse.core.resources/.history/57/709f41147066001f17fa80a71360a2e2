@@ -1,0 +1,5 @@
+package com.springbootcrudapi.controller;
+
+public class StudentController {
+
+}
